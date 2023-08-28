@@ -472,12 +472,12 @@ Changes not staged for commit:
 ## Типы коммитов
 
 ```mermaid
-flowchart LR
+graph TD;
     C[Типы коммитов] --> D[Корпоративный]
     C --> E[Conventional Commits]
+```
 
 - **Корпоративный**
-```
 
 В корпоративном стиле в начале сообщения обычно указывают Jira-ID, а после — текст сообщения.
 

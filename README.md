@@ -601,7 +601,7 @@ $ git commit --amend --no-edit
     HEAD is now at b576d89 feat: добавить массив Expenses и цикл для добавления трат
     ```
     
-    ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3624c5d-bffc-492c-8977-5cf785d9e1b3/M2_T6_1686651127.png)
+    ![](https://pictures.s3.yandex.net/resources/M2_T6_1686651127.png)
     
 - **«Откатить» изменения, которые не попали ни в staging, ни в коммит, — `git restore <file>`**
 

@@ -1520,8 +1520,6 @@ Automatic merge failed; fix conflicts and then commit the result# слияния
 
 Убедитесь, что находитесь в основной ветке, и выполните команду `git push` с флагом `-u`, который свяжет локальную ветку с удалённой. Также команде нужно передать параметры `origin` и имя текущей ветки.
 
-Скопировать кодBASH
-
 ```bash
 $ git push -u origin main
 ```
